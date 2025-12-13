@@ -52,6 +52,18 @@
     .iframe-controls button { background: var(--gold-1); border: none; padding: 8px 18px; border-radius: 14px; font-weight: 700; cursor: pointer; color: #000; }
 
     @keyframes shine { to { background-position: 200% center; } }
+
+    body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(circle at 20% 10%, rgba(255,215,120,.08), transparent 40%),
+    radial-gradient(circle at 80% 30%, rgba(255,215,120,.06), transparent 45%);
+  pointer-events: none;
+  z-index: -1;
+}
+
   </style>
 </head>
 <body>
