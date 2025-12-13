@@ -26,11 +26,15 @@
       font-family: 'Inter', sans-serif;
     }
 
-    body {
-      background: radial-gradient(1200px 600px at top, #1a1405, var(--bg));
-      color: var(--text);
-      min-height: 100vh;
-    }
+body {
+  background: radial-gradient(1200px 600px at top, #1a1405, var(--bg));
+  color: var(--text);
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+}
+
 
     /* ===== NAVBAR ===== */
     header {
@@ -269,13 +273,15 @@
     }
 
     /* ===== FOOTER ===== */
-    footer {
-      border-top: 1px solid rgba(255, 215, 100, 0.1);
-      padding: 26px;
-      text-align: center;
-      color: #777;
-      font-size: .9rem;
-    }
+footer {
+  margin-top: auto;
+  border-top: 1px solid rgba(255, 215, 100, 0.1);
+  padding: 26px;
+  text-align: center;
+  color: #777;
+  font-size: .9rem;
+}
+
 
     /* ===== ANIMATIONS ===== */
     @keyframes shine {
