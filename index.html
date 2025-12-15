@@ -221,8 +221,7 @@
 <footer>
   © 2025 Ore Gaming. All rights reserved.
 </footer>
-
-<!-- ===== FIREBASE PLAYER COUNT ===== -->
+<!-- Firebase -->
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
 
@@ -237,21 +236,24 @@
   firebase.initializeApp(firebaseConfig);
   const db = firebase.database();
 
-  const playersRef = db.ref("playersOnline");
+  const connectionsRef = db.ref("connections");
+  const connectedRef = db.ref(".info/connected");
+  const playersCountEl = document.getElementById("players-count");
 
-  playersRef.on("value", snap => {
-    document.getElementById("players-count").textContent = snap.val() ?? 0;
+  // Track connection
+  connectedRef.on("value", snap => {
+    if (snap.val() === true) {
+      const con = connectionsRef.push(true);
+      con.onDisconnect().remove();
+    }
   });
 
-  // session tracking
-  const sessionRef = db.ref("sessions").push(true);
-  db.ref("playersOnline").transaction(v => (v || 0) + 1);
-
-  sessionRef.onDisconnect().remove();
-  sessionRef.onDisconnect().then(() => {
-    db.ref("playersOnline").transaction(v => v > 0 ? v - 1 : 0);
+  // Count active connections
+  connectionsRef.on("value", snap => {
+    playersCountEl.textContent = snap.numChildren();
   });
 </script>
+
 
 </body>
 </html>
