@@ -50,12 +50,13 @@
   {
     "title": "ULTRAKILL",
     "image": "https://cdn.mos.cms.futurecdn.net/4kV5smsTPsVCCwhNcpnsuf-1920-80.jpg",
-    "link": "https://raw.githubusercontent.com/ten8mystery/Diamond-Backend/refs/heads/main/ULTRAKILL.html"
+    "src": "https://raw.githubusercontent.com/ten8mystery/Diamond-Backend/refs/heads/main/ULTRAKILL.html"
+    "description": "Game Active"
   },
   {
     "title": "Getting Over It with Bennett Foddy",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240720/ss_413828bfd197dae1e356f6b43c4c38a9d3466591.1920x1080.jpg?t=1666987027",
-    "link": "https://raw.githubusercontent.com/ten8mystery/Diamond-Backend/refs/heads/main/Getting%20Over%20It%20with%20Bennett%20Foddy.html"
+    "src": "https://raw.githubusercontent.com/ten8mystery/Diamond-Backend/refs/heads/main/Getting%20Over%20It%20with%20Bennett%20Foddy.html"
     "description": "Game Active"
   },
   {
@@ -85,19 +86,19 @@
   {
     "title": "That's Not My Neighbor",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/216.png",
-    "link": "https://cdn.jsdelivr.net/gh/gn-math/html@main/216.html"
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/216.html"
     "description": "Game Active"
   },
   {
     "title": "10 Minutes Till Dawn",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/430.png",
-    "link": "https://cdn.jsdelivr.net/gh/gn-math/html@main/430.html"
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/430.html"
     "description": "Game Active"
   },
   {
     "title": "Gladihoppers",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/4.png",
-    "link": "https://cdn.jsdelivr.net/gh/gn-math/html@main/4.html"
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/4.html"
     "description": "Game Active"
   },
   {
@@ -127,17 +128,19 @@
   {
     "title": "Basket Random",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/66.png",
-    "link": "https://cdn.jsdelivr.net/gh/gn-math/html@main/66.html"
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/66.html"
     "description": "Game Active"
   },
   {
     "title": "Boxing Random",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/77.png",
-    "link": "https://cdn.jsdelivr.net/gh/gn-math/html@main/77.html"
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/77.html"
+    "description": "Game Active"
   },
   {
     "title": "Gunspin",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/91.png",
-    "link": "https://cdn.jsdelivr.net/gh/gn-math/html@main/91.html"
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/91.html"
+    "description": "Game Active"
   }
 ]
