@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vertex Gold – Play</title>
+  <title>Vertex Gold – Apps</title>
   <link rel="icon" type="image/png" href="images/favicon.png">
 
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -267,7 +267,7 @@
 </header>
 
 <section class="section">
-  <h1>Select a Game</h1>
+  <h1>Select an App</h1>
 
   <div class="search-bar">
     <input type="text" id="search" placeholder="Search games...">
@@ -292,7 +292,7 @@
   const closeBtn = document.getElementById('closeBtn');
   const fullscreenBtn = document.getElementById('fullscreenBtn');
 
-  fetch('/data/games.json')
+  fetch('/data/apps.json')
     .then(res => res.json())
     .then(data => {
       data.forEach(game => {
