@@ -10,5 +10,17 @@
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/352.html",
     "image": "https://cdn.mos.cms.futurecdn.net/DghVkk4ufd8WfK9qTVqUam.jpg",
     "description": "Game Active"
-  }
+  },
+  {
+    "name": "Tweeter",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/596.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgLceynaKMMLdOh3aS-L8PgmFriHzpaq9SLw&s",
+    "description": "Game Active"
+  },
+  {
+    "name": "Music",
+    "src": "https://raw.githubusercontent.com/ten8mystery/Diamond-Backend/main/music.html",
+    "image": "https://i.ytimg.com/vi/mrm50KbvGnk/maxresdefault.jpg",
+    "description": "Game Active"
+  },
 ]
