@@ -310,6 +310,18 @@
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/90.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/90.png",
     "description": "Game Active"
+  },
+  {
+    "name": "Granny 2",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/125.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/125.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Granny 3",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/126.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/126.png",
+    "description": "Game Active"
   }
 ]
 
