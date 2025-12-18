@@ -382,6 +382,18 @@
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/119.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/119.png",
     "description": "Game Active"
+  },
+  {
+    "name": "Friday Night Funkin'",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/8-a.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/8.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Crossy Road'",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/24.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/24.png",
+    "description": "Game Active"
   }
 ]
 
