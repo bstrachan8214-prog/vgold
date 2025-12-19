@@ -415,8 +415,14 @@
   },
   {
     "name": "Steal a Brainrot",
-    "src": "https://raw.githubusercontent.com/martinmmcyt/steal-brainrot/main/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/479.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/479.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Tunnel Rush",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/206.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/206.png",
     "description": "Game Active"
   }
 ]
