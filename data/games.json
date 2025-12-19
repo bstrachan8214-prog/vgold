@@ -412,6 +412,12 @@
     "src": "https://raw.githubusercontent.com/ten8mystery/Diamond-Backend/refs/heads/main/DOOM.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/203.png",
     "description": "Game Active"
+  },
+  {
+    "name": "Steal a Brainrot",
+    "src": "https://raw.githubusercontent.com/martinmmcyt/steal-brainrot/main/index.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/479.png",
+    "description": "Game Active"
   }
 ]
 
