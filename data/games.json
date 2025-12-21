@@ -31,13 +31,13 @@
   },
   {
     "name": "Fortnite",
-    "src": "/local/fortnite.html",
+    "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold/refs/heads/main/data/local/fortnite.html",
     "image": "https://cdn2.unrealengine.com/fneco-2025-keyart-thumb-1920x1080-de84aedabf4d.jpg",
     "description": "Game Active"
   },
   {
     "name": "Call of Duty Mobile",
-    "src": "/local/codmobile.html",
+    "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold/refs/heads/main/data/local/codmobile.html",
     "image": "https://thunderpick.io/blog/wp-content/uploads/2022/02/Activision_2019-Oct-01.jpg",
     "description": "Game Active"
   },
