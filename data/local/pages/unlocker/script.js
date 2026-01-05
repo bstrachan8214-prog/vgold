@@ -790,7 +790,7 @@ let currentTabIndex = 0;
 const tabs = [{
     url: 'helios://start',
     content: `<div class="Xt7Lm9Kp3R8f">
-  <p>Programmed 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗, Hosted by ScramJr.</p>
+  <p>Hosted by Helios!</p>
 </div><div class="top-right-boxaa" title="Click here to visit the Helios GitHub page!">
   <p><i class="fa-brands fa-github"></i></p>
 </div>
