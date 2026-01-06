@@ -510,6 +510,12 @@
     "description": "Game Active"
   },
   {
+    "name": "GTA: Vice City",
+    "src": "https://raw.githubusercontent.com/MRVAPORWAVE25/GTA-VC-WP/main/GTA_Vice_City.html",
+    "image": "https://play-lh.googleusercontent.com/soywaPw0kB7fiDHokNdGlxbOijFwLe8XahjnZhJAejpCTcPMdogHEu10hcAF6dBW9LI=w526-h296-rw",
+    "description": "Game Active"
+  },
+  {
     "name": "Flappy Dunk",
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/153.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/153.png",
