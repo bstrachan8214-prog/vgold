@@ -688,6 +688,30 @@
     "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold/main/data/local/zones/Baldi's%20Basics%20Plus.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/467.png",
     "description": "Game Active"
+  },
+  {
+    "name": "R.E.P.O",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/195.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/195.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "FIFA 10",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/686.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/686.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "FIFA 11",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/685.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/685.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Fruit Ninja",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/261.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/261.png",
+    "description": "Game Active"
   }
 ]
 
