@@ -862,5 +862,65 @@
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/26.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/26.png",
     "description": "Game Active"
+  },
+  {
+    "name": "Pokemon HeartGold",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/696.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/696.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/673.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/673.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo 2",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/674.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/674.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo 3",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/675.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/675.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo 4",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/676.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/676.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo 5",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/677.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/677.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo 6",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/678.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/678.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Hobo 7",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/679.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/679.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Sonic.EXE",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/598.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/598.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Stone Grass Mowing Simulator",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/584.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/584.png",
+    "description": "Game Active"
   }
 ]
