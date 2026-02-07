@@ -34,5 +34,11 @@
     "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold/refs/heads/main/data/local/zones/movies.html",
     "image": "https://us-west-2.graphassets.com/Am5rKdLUrSZS2vQnL0H52z/hS5sY58RSW64KSXS87EA",
     "description": "Game Active"
+  },
+  {
+    "name": "Website Cloner",
+    "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold/refs/heads/main/data/local/zones/vertexcloner.html",
+    "image": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold/refs/heads/main/images/vertexcloner.png",
+    "description": "Game Active"
   }
 ]
