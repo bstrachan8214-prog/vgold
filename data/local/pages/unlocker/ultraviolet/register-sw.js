@@ -23,6 +23,18 @@ async function registerSW() {
         throw new Error("Service workers cannot be registered without https.");
     }
 
+    async function registerSW() {
+    const stockSW = "/uv-sw.js";
+    
+    if ("serviceWorker" in navigator) {
+        // Adding a timestamp ensures you get the freshest version of the worker
+        await navigator.serviceWorker.register(stockSW + '?v=' + Date.now(), {
+            scope: __uv$config.prefix,
+        });
+        console.log("Vertex: SW Registered on Cloudflare");
+    }
+}
+
     if ("serviceWorker" in navigator) {
         // We only need ONE registration call. 
         // We use stockSW (/uv-sw.js) and the scope from your config.
