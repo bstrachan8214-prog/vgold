@@ -215,20 +215,23 @@
   <script src="register-sw.js"></script>
   <script src="embed.js"></script>
 
-  <script>
-    (async function() {
-      try {
-        if (typeof BareMux !== 'undefined') {
-          const connection = new BareMux.BareMuxConnection('/uv-sw.js');
-          await connection.setTransport('/data/local/pages/unlocker/ultraviolet/uv/uv.bundle.js', [{ 
-            wisp: 'wss://glseries.net/wisp/' 
-          }]);
-          console.log("Vertex: Wisp Active");
-        }
-      } catch (e) {
-        console.error("Vertex: Connection Error", e);
-      }
-    })();
-  </script>
+<script>
+  window.addEventListener('load', async () => {
+      setTimeout(async () => {
+          try {
+              if (typeof BareMux !== 'undefined' && typeof Ultraviolet !== 'undefined') {
+                  const connection = new BareMux.BareMuxConnection('/uv-sw.js');
+                  await connection.setTransport('/data/local/pages/unlocker/ultraviolet/uv/uv.bundle.js', [{ 
+                      wisp: 'wss://glseries.net/wisp/' 
+                  }]);
+                  console.log("Vertex Active");
+              }
+          } catch (e) {
+              console.error("Init error:", e);
+          }
+      }, 500); 
+  });
+</script>
 </body>
 </html>
+
